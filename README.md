@@ -25,20 +25,11 @@ The solution analyses a repository which contains various images belonging to fo
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Repository contains the jypter notebook and some useful insights about the deep learning cnn model that alerts dermatologists. 
+- Repository contains the jypter notebook and some useful insights about the deep learning cnn model that alerts dermatologists about Melanoma which accounts for 75% in skin cancer disease.
+- The solution analyses a dataset which contain images belonging to various diseases.
 
 ## Conclusions
-Features which impacts the churning of customers most is
-- local_any_8
-- total_ic_mou_8
-- roam_any_8
-- local_any_7
-- data_used_8
-- monthly_3g_6
-- roam_any_7
-- sachet_3g_7
-- last_day_rch_amt_8
-- local_any_6
+ 
 
 ## Technologies Used
 - Python 3.2.1, Tensor flow, Keras deep learning cnn module and google col-lab
