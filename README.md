@@ -29,13 +29,14 @@ The solution analyses a repository which contains various images belonging to fo
 - The solution analyses a dataset which contain images belonging to various diseases.
 
 ## Conclusions
- 
+ - Initial dataset has class imbalance where some of the dataset are proportionately high. With right data augmentation and class imbalance treatement, initial model which was overfit, perfromed better with accuracy more than 81% both on training and validatoin set.
+ - Class has least number of samples is 'seborrheic keratosis'
+ - Class "pigmented benign keratosis" dominate the data in presence
 
 ## Technologies Used
 - Python 3.2.1, Tensor flow, Keras deep learning cnn module and google col-lab
 - Thr project was developed on google coloab as it requires GPU to train deep learning model
  
-
 ## Acknowledgements
 Give credit here.
 - This project was inspired by upgrad online learning community https://www.upgrad.com/
