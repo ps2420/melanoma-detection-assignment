@@ -1,4 +1,4 @@
-# Deep Learning - Melanoma Detectoin Assignment
+# Deep Learning - Melanoma Detection Assignment
 > Melanoma is a type of skin cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. Repository contains a deep learning cnn model that can predict if skin cancer is Melanoma.
 
 ## Business Objective
